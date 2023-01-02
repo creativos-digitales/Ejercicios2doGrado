@@ -8,15 +8,15 @@
             }
             ,
             {"id":"2",      "name":"Tito y su mascota"
-            ,"path": "2.Tito y su mascota"
+            ,"path": "Unidades/2.Tito y su mascota"
             }
             ,
             {"id":"3",      "name":"Atrapando Rocas"
-            ,"path": "3.Atrapando Rocas"
+            ,"path": "Unidades/3.Atrapando Rocas"
             }
             ,
             {"id":"4",      "name":"Tito tiene hambre"
-            ,"path": "4.Tito tiene hambre"
+            ,"path": "Unidades/4.Tito tiene hambre"
             }
         ]
     },{"name": "Bucles", 
@@ -24,19 +24,19 @@
     "exercises":
         [
             {"id":"5",      "name":"Buscando la salida"
-            ,"path": "5.Buscando la salida"
+            ,"path": "Unidades/5.Buscando la salida"
             }
             ,
             {"id":"6",      "name":"Atrapando Lombrices"
-            ,"path": "6.Atrapando Lombrices"
+            ,"path": "Unidades/6.Atrapando Lombrices"
             }
             ,
             {"id":"7",      "name":"Rami necesita musica"
-            ,"path": "7.Rami Necesita Musica"
+            ,"path": "Unidades/7.Rami Necesita Musica"
             }
             ,
             {"id":"8",      "name":"Rami tiene sed"
-            ,"path": "8.Rami Tiene Sed"
+            ,"path": "Unidades/8.Rami Tiene Sed"
             }
         ]
     },{"name": "Patrones", 
@@ -44,19 +44,19 @@
     "exercises":
         [
             {"id":"9",      "name":"Fido y sus anteojos"
-            ,"path": "9.Fido y sus anteojos"
+            ,"path": "Unidades/9.Fido y sus anteojos"
             }
             ,
             {"id":"10",      "name":"Fido y su gorra"
-            ,"path": "10.Fido y su gorra"
+            ,"path": "Unidades/10.Fido y su gorra"
             }
             ,
             {"id":"11",      "name":"Fido y su hijo"
-            ,"path": "11.Fido y su hijo"
+            ,"path": "Unidades/11.Fido y su hijo"
             }
             ,
             {"id":"12",      "name":"Fido tiene hambre"
-            ,"path": "12.Fido tiene hambre"
+            ,"path": "Unidades/12.Fido tiene hambre"
             }
         ]
     },{"name": "Bucles Anidados", 
@@ -64,19 +64,19 @@
     "exercises":
         [
             {"id":"13",      "name":"Teo tiene hambre"
-            ,"path": "13.Teo tiene hambre"
+            ,"path": "Unidades/13.Teo tiene hambre"
             }
             ,
             {"id":"14",      "name":"Teo esta aburrido"
-            ,"path": "14.Teo esta aburrido"
+            ,"path": "Unidades/14.Teo esta aburrido"
             }
             ,
             {"id":"15",      "name":"Teo necesita iluminarse"
-            ,"path": "15.Teo necesita iluminarse"
+            ,"path": "Unidades/15.Teo necesita iluminarse"
             }
             ,
             {"id":"16",      "name":"Teo tiene sed"
-            ,"path": "16.Teo tiene sed"
+            ,"path": "Unidades/16.Teo tiene sed"
             }
         ]
     }
