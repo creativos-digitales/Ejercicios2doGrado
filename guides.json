@@ -4,7 +4,7 @@
     "exercises":
         [
             {"id":"1",      "name":"Ayudemos a Tito"
-            ,"path": "/1.Ayudemos a Tito"
+            ,"path": "Unidades/1.Ayudemos a Tito"
             }
             ,
             {"id":"2",      "name":"Tito y su mascota"
