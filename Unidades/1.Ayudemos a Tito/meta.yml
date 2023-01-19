@@ -2,7 +2,7 @@ library:
   visible: false
 source:
   visible: true
-  percentage: 0.55
+  percentage: 0.549951171875
 board:
   visible_edition: true
   collapse_toolbox: false

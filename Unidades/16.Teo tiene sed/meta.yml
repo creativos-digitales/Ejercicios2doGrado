@@ -28,6 +28,8 @@ link: ''
 blocks:
   visible:
     - ProcedimientosPrimitivos
+    - RepeticionSimple
+    - Numero
     - DefinicionesDeProgramas
   disabled: []
 activity:

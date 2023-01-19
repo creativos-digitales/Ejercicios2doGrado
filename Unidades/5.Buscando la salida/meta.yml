@@ -2,7 +2,7 @@ library:
   visible: false
 source:
   visible: true
-  percentage: 0.5499782986111111
+  percentage: 0.549921875
 board:
   visible_edition: true
   collapse_toolbox: false
@@ -29,6 +29,7 @@ blocks:
   visible:
     - ProcedimientosPrimitivos
     - RepeticionSimple
+    - Numero
     - DefinicionesDeProgramas
   disabled: []
 activity:

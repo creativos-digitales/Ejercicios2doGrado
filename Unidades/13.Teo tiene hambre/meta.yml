@@ -28,9 +28,12 @@ link: ''
 blocks:
   visible:
     - ProcedimientosPrimitivos
+    - RepeticionSimple
     - Numero
     - DefinicionesDeProgramas
   disabled: []
 activity:
   creation_mode: advanced
+  construction_mode: blocks
+  execution_type: sequential
 name: Nuevo proyecto

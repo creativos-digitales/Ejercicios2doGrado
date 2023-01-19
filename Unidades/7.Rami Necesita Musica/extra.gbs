@@ -7,8 +7,6 @@ procedure MoverDerecha(){
         { BOOM("Te has chocado una roca") }
     }elseif(hayBolitas(Azul)){
         Sacar(Azul)
-        Sacar(Rojo)
-        Poner(Negro)
     }
 }
 
@@ -21,8 +19,6 @@ procedure MoverIzquierda(){
         { BOOM("Te has chocado una roca") }
     }elseif(hayBolitas(Azul)){
         Sacar(Azul)
-        Sacar(Rojo)
-        Poner(Negro)
     }
 }
 
@@ -34,8 +30,8 @@ procedure MoverArriba(){
         Sacar(Rojo)
         { BOOM("Te has chocado una roca") }
     }elseif(hayBolitas(Azul)){
-        Sacar(Azul)
         Sacar(Rojo)
+        Sacar(Azul)
         Poner(Negro)
     }
 }
@@ -49,7 +45,5 @@ procedure MoverAbajo(){
         { BOOM("Te has chocado una roca") }
     }elseif(hayBolitas(Azul)){
         Sacar(Azul)
-        Sacar(Rojo)
-        Poner(Negro)
     }
 }

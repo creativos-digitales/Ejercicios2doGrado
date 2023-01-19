@@ -2,7 +2,7 @@ library:
   visible: false
 source:
   visible: true
-  percentage: 0.5499976264105902
+  percentage: 0.5499891493055555
 board:
   visible_edition: true
   collapse_toolbox: false
@@ -17,7 +17,7 @@ board:
 execution_speed:
   user_permissions:
     can_change_speed: true
-  active: low
+  active: superhigh
 attire:
   user_permissions:
     can_toggle_visibility: false
@@ -29,8 +29,11 @@ blocks:
   visible:
     - ProcedimientosPrimitivos
     - RepeticionSimple
+    - Numero
     - DefinicionesDeProgramas
   disabled: []
 activity:
   creation_mode: advanced
+  construction_mode: blocks
+  execution_type: sequential
 name: Nuevo proyecto
